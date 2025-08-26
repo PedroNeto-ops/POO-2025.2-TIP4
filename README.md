@@ -48,9 +48,9 @@
 
 ---
 
-## 🔗 Repositórios da Dupla
+## 🔗 Membros da equipe
 - [Pedro Neto](https://github.com/PedroNeto-ops)
-- [Laurino](https://github.com/Laurino-Bonifacio)
+- [Laurino Bonifacio](https://github.com/Laurino-Bonifacio)
 - [Davi Mendes](https://github.com/davi656)
 
 ---
