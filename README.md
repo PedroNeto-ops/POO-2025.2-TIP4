@@ -1,56 +1,101 @@
-<div align="center">
+# 📚 POO – Atividades (Listas 01–03)
 
-# ☕ Projeto de Programação Orientada a Objetos
+**Professor:** Roger Moura  
+**Trio:** Pedro Neto, Laurino Bonifacio & Davi Mendes
 
-**Um repositório com soluções de exercícios em Java para a disciplina de POO.**
+> Repositório para organizar e documentar as atividades de Programação Orientada a Objetos (POO).  
+> Este README apresenta a estrutura das listas de exercícios, com a separação entre exercícios resolvidos e propostos.
 
-</div>
 
-<div align="center">
+---
+## 🎯 Escopo das Listas
 
-![Java](https://img.shields.io/badge/Linguagem-Java-orange?style=for-the-badge&logo=java)
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-brightgreen?style=for-the-badge)
-![Instituicao](https://img.shields.io/badge/IFCE-Maranguape-blue?style=for-the-badge)
-</div>
- 
---- 
+### LISTA-01
+- **Cap. 03 – Estrutura Sequencial**
+- **Exercícios:** 1º ao 10º (**Resolvidos**) e 1º ao 5º (**Propostos**)
 
-## 🎯 Sobre o Projeto
+### LISTA-02
+- **Cap. 04 – Estrutura Condicional**
+- **Cap. 05 – Estrutura de Repetição**
+- **Exercícios:** 1º ao 10º (**Resolvidos**) e 1º ao 5º (**Propostos**) **em cada capítulo**
 
-Este projeto foi criado como parte da disciplina de **Programação Orientada a Objetos**. O objetivo principal é aplicar os conceitos teóricos aprendidos em sala de aula na resolução de problemas práticos, utilizando a linguagem **Java**.
+### LISTA-03
+- **Cap. 06 – Vetor**
+- **Cap. 08 – Sub-rotina**
+- **Exercícios:** 1º ao 10º (**Resolvidos**) **em cada capítulo**
 
-Os exercícios foram baseados no livro **"Fundamentos da Programação de Computadores"** de Ascencio e Campos.
+> **Observação:**  
+> - **Exercícios Resolvidos** = exercícios já acompanhados de **algoritmo/modelo** no próprio material.  
+>   Exemplo: pseudocódigo pronto fornecido no livro.  
+>
+> - **Exercícios Propostos** = exercícios em que o material apresenta **apenas o enunciado**, ficando a cargo do aluno desenvolver a solução completa (algoritmo/código).  
+>
+> **Nome do livro:** *Fundamentos da Programação de Computadores – 2012, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.*
 
 ---
 
-## ✨ Tópicos Abordados
+## 💻 Linguagem e Ambiente
 
-Neste repositório, você encontrará algoritmos que exploram:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" /><br>
+  <strong>Linguagem utilizada:</strong> Java
+</p>
 
--   **Estruturas Sequenciais:** Execução linear de comandos.
--   **Estruturas Condicionais:** Tomada de decisões com `if/else` e `switch`.
--   **Estruturas de Repetição:** Laços de repetição com `for` e `while`.
--   **Vetores (Arrays):** Armazenamento e manipulação de listas de dados.
--   **Sub-rotinas (Métodos):** Modularização e reutilização de código.
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
--   **Linguagem:** Java
--   **IDE:** Eclipse IDE
--   **Controle de Versão:** Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" /><br>
+  <strong>IDE utilizada:</strong> Eclipse
+</p>
 
 ---
 
-## 🧑‍💻 Desenvolvedores
-
--   Laurino Bonifacio De Abreu.
--   Davi Mendes Medeiros.
--   Pedro Cardoso Santiago Neto.
+## 🔗 Membros da equipe
+- [Pedro Neto](https://github.com/PedroNeto-ops)
+- [Laurino Bonifacio](https://github.com/Laurino-Bonifacio)
+- [Davi Mendes](https://github.com/davi656)
 
 ---
 
-<div align="center">
-  <p>Desenvolvido para a disciplina de POO do IFCE - Campus Maranguape.</p>
-</div>
+## 🗂 Estrutura do Repositório
+
+```text
+.
+│
+├── Lista-01/
+│   ├── Exercicios-Resolvidos/
+│   │   ├── Q01/
+│   │   ├── Q02/
+│   │   ├── ... Q10/
+│   │
+│   ├── Exercicios-Propostos/
+│   │   ├── Q01/
+│   │   ├── Q02/
+│   │   ├── ... Q05/
+│   │
+│   └── README.md
+│
+├── Lista-02/
+│   ├── Exercicios-Resolvidos/
+│   │   ├── Q01/
+│   │   ├── Q02/
+│   │   ├── ... Q10/
+│   │
+│   ├── Exercicios-Propostos/
+│   │   ├── Q01/
+│   │   ├── Q02/
+│   │   ├── ... Q05/
+│   │
+│   └── README.md
+│
+├── Lista-03/
+│   ├── Exercicios-Resolvidos/
+│   │   ├── Q01/
+│   │   ├── Q02/
+│   │   ├── ... Q10/
+│   │
+│   └── README.md
+└── README.md
+```
+
+
+
+
